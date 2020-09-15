@@ -14,6 +14,8 @@ public class Zoo{
 
 		List<Animal> animals = new ArrayList<Animal>();
 
+
+		/* Each animal object is given an identity - a name. */
 		animals.add( new Wolf("Wendy") );
 		animals.add( new Wolf("Walter") );
 		animals.add( new Dog("Dumbo") );
@@ -36,6 +38,10 @@ public class Zoo{
 		animals.add( new Baboon("Billie") );
 
 		int length = animals.size();
+
+		/* This loop is a good example of polymorphism. currentAnimal can be a Dog,
+		Tiger, Cat, etc. But regardless, the wake(), rollCall(), etc. methods can
+		be called the same way */
 
 		for(int i = 1; i <= days; i++){
 			System.out.println("Day "+i+":");

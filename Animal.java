@@ -1,4 +1,9 @@
-public class Animal{
+public abstract class Animal{
+	/* Animal is an abstract class. We should never need an Animal object (other
+	than an object that is a subclass of Animal), but we would like to inherit
+	from Animal. */
+
+
 	String name;
 	String noise;
 	String type;
