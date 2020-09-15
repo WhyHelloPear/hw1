@@ -1,56 +1,47 @@
-import java.util.*;  
+import java.util.*;
 
 public class Zoo{
-	
 
-	public static void main(String[] args){  
 
-    	Scanner scan= new Scanner(System.in);    //System.in is a standard input stream  
-		System.out.println("Welcome to The Zoo!");  
+	public static void main(String[] args){
+
+    	Scanner scan= new Scanner(System.in);    //System.in is a standard input stream
+		System.out.println("Welcome to The Zoo!");
 		System.out.println("Enter the number of days you'd like to simulate:");
 		int days = scan.nextInt();
-		System.out.println("================================================\n");  
+		System.out.println("================================================\n");
 
 
 		List<Animal> animals = new ArrayList<Animal>();
 
-		Canine wolf = new Canine();
-		Canine dog = new Canine();
-		Feline tiger = new Feline();
-		Feline cat = new Feline();
-		Feline lion = new Feline();
-		Pachyderm rhino = new Pachyderm();
-		Pachyderm hippo = new Pachyderm();
-		Pachyderm elephant = new Pachyderm();
-		Primate monkey = new Primate();
-		Primate orangutan = new Primate();
-		Primate baboon = new Primate();
 
-		wolf.setInfo("Wendy","howl", "wolf");
-		dog.setInfo("Dumbo", "bark", "dog");
-		tiger.setInfo("Tommy", "roar", "tiger");
-		cat.setInfo("Candice", "meow", "cat");
-		lion.setInfo("Leo", "roar", "lion");
-		rhino.setInfo("Ronny", "snort", "rhino");
-		hippo.setInfo("Hooper", "snort", "hippo");
-		elephant.setInfo("Elly","trumpet", "elephant");
-		monkey.setInfo("Manny", "howl", "monkey");
-		orangutan.setInfo("Ori", "howl", "orangutan");
-		baboon.setInfo("Bonny", "howl", "baboon");
-
-		animals.add(wolf);
-		animals.add(dog);
-		animals.add(tiger);
-		animals.add(cat);
-		animals.add(lion);
-		animals.add(rhino);
-		animals.add(hippo);
-		animals.add(elephant);
-		animals.add(monkey);
-		animals.add(orangutan);
-		animals.add(baboon);
+		/* Each animal object is given an identity - a name. */
+		animals.add( new Wolf("Wendy") );
+		animals.add( new Wolf("Walter") );
+		animals.add( new Dog("Dumbo") );
+		animals.add( new Dog("Deborah") );
+		animals.add( new Tiger("Terry") );
+		animals.add( new Tiger("Tiarra") );
+		animals.add( new Lion("Larry") );
+		animals.add( new Lion("Lara") );
+		animals.add( new Rhino("Randy") );
+		animals.add( new Rhino("Rafi") );
+		animals.add( new Hippo("Henry") );
+		animals.add( new Hippo("Hariett") );
+		animals.add( new Elephant("Eddie") );
+		animals.add( new Elephant("Edna") );
+		animals.add( new Monkey("Mandy") );
+		animals.add( new Monkey("Mark") );
+		animals.add( new Orangutan("Odie") );
+		animals.add( new Orangutan("Oat") );
+		animals.add( new Baboon("Bob") );
+		animals.add( new Baboon("Billie") );
 
 		int length = animals.size();
+
+		/* This loop is a good example of polymorphism. currentAnimal can be a Dog,
+		Tiger, Cat, etc. But regardless, the wake(), rollCall(), etc. methods can
+		be called the same way */
 
 		for(int i = 1; i <= days; i++){
 			System.out.println("Day "+i+":");
@@ -67,5 +58,5 @@ public class Zoo{
 			keeper = null;
 			System.out.println("Zookeeper has left the zoo!\n");
 		}
-    }  
+    }
 }
