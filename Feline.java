@@ -1,6 +1,10 @@
 import java.util.Random;
 public class Feline extends Animal{
 
+	public Feline(String name, String noise, String type){
+		super(name, noise, type);
+	}
+
 	public void sleep(){
 		Random random = new Random();
 		int roll = random.nextInt(10);

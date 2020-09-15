@@ -1,10 +1,10 @@
-public class Animal{  
+public class Animal{
 	String name;
 	String noise;
 	String type;
 	Boolean awake;
 
-	public void setInfo(String name, String noise, String type){
+	public Animal(String name, String noise, String type){
 		this.name = name;
 		this.noise = noise;
 		this.type = type;

@@ -1,6 +1,10 @@
 import java.util.Random;
 public class Pachyderm extends Animal{
 
+	public Pachyderm(String name, String noise, String type){
+		super(name,noise,type);
+	}
+
 	public void roam(){
 		Random random = new Random();
 		int roll = random.nextInt(3);
