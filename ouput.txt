@@ -1,0 +1,344 @@
+Welcome to The Zoo!
+Enter the number of days you'd like to simulate:
+7
+================================================
+
+Day 1:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy roams around.
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Calling for Tommy the tiger
+Tommy has been fed!
+Tommy is roaming around!
+Tommy has refused to sleep!
+Tommy is roaming around!
+Calling for Candice the cat
+Candice has been fed!
+Candice is roaming around!
+Candice has refused to sleep!
+Candice is roaming around!
+Calling for Leo the lion
+Leo has been fed!
+Leo is roaming around!
+Leo has refused to sleep!
+Leo is roaming around!
+Calling for Ronny the rhino
+Ronny has been fed!
+Ronny roams around.
+Calling for Hooper the hippo
+Hooper has been fed!
+Hooper roams around.
+Calling for Elly the elephant
+Elly has been fed!
+Elly roams around.
+Calling for Manny the monkey
+Manny has refused to eat!
+Manny the monkey howled!
+Manny is roaming around!
+Calling for Ori the orangutan
+Ori has refused to eat!
+Ori is roaming around!
+Ori has fallen asleep
+Calling for Bonny the baboon
+Bonny has refused to eat!
+Bonny the baboon howled!
+Bonny is roaming around!
+Zookeeper has left the zoo!
+
+Day 2:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy roams around.
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Tommy has fallen asleep!
+Calling for Tommy the tiger
+Tommy has been fed!
+Tommy is roaming around!
+Tommy has refused to sleep!
+Tommy the tiger roared!
+Candice has fallen asleep!
+Calling for Candice the cat
+Candice has been fed!
+Candice is roaming around!
+Candice has refused to sleep!
+Candice is roaming around!
+Leo has fallen asleep!
+Calling for Leo the lion
+Leo has been fed!
+Leo is roaming around!
+Leo has refused to sleep!
+Leo the lion roared!
+Calling for Ronny the rhino
+Ronny has been fed!
+Ronny has refused to exercise! They chose at you instead!
+Calling for Hooper the hippo
+Hooper has been fed!
+Hooper roams around.
+Calling for Elly the elephant
+Elly has been fed!
+Elly roams around.
+Calling for Manny the monkey
+Manny has refused to eat!
+Manny is roaming around!
+Manny has fallen asleep
+Calling for Ori the orangutan
+Ori has refused to eat!
+Ori the orangutan howled!
+Ori is roaming around!
+Calling for Bonny the baboon
+Bonny has refused to eat!
+Bonny is roaming around!
+Bonny has fallen asleep
+Zookeeper has left the zoo!
+
+Day 3:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy roams around.
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo has refused to exercise! They chose to dig instead.
+Tommy has fallen asleep!
+Calling for Tommy the tiger
+Tommy has been fed!
+Tommy is roaming around!
+Tommy has refused to sleep!
+Tommy the tiger roared!
+Candice has fallen asleep!
+Calling for Candice the cat
+Candice has been fed!
+Candice is roaming around!
+Candice has refused to sleep!
+Candice the cat meowed!
+Leo has fallen asleep!
+Calling for Leo the lion
+Leo has been fed!
+Leo is roaming around!
+Leo has refused to sleep!
+Leo is roaming around!
+Calling for Ronny the rhino
+Ronny has been fed!
+Ronny roams around.
+Calling for Hooper the hippo
+Hooper has been fed!
+Hooper roams around.
+Calling for Elly the elephant
+Elly has been fed!
+Elly roams around.
+Calling for Manny the monkey
+Manny has refused to eat!
+Manny is roaming around!
+Manny has fallen asleep
+Calling for Ori the orangutan
+Ori has refused to eat!
+Ori is roaming around!
+Ori has fallen asleep
+Calling for Bonny the baboon
+Bonny has refused to eat!
+Bonny is roaming around!
+Bonny has fallen asleep
+Zookeeper has left the zoo!
+
+Day 4:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy roams around.
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Tommy has fallen asleep!
+Calling for Tommy the tiger
+Tommy has been fed!
+Tommy is roaming around!
+Tommy has refused to sleep!
+Tommy the tiger roared!
+Candice has fallen asleep!
+Calling for Candice the cat
+Candice has been fed!
+Candice is roaming around!
+Candice has refused to sleep!
+Candice the cat meowed!
+Leo has fallen asleep!
+Calling for Leo the lion
+Leo has been fed!
+Leo is roaming around!
+Leo has refused to sleep!
+Leo is roaming around!
+Calling for Ronny the rhino
+Ronny has been fed!
+Ronny roams around.
+Calling for Hooper the hippo
+Hooper has been fed!
+Hooper roams around.
+Calling for Elly the elephant
+Elly has been fed!
+Elly has refused to exercise! They chose at you instead!
+Calling for Manny the monkey
+Manny has refused to eat!
+Manny is roaming around!
+Manny has fallen asleep
+Calling for Ori the orangutan
+Ori has refused to eat!
+Ori the orangutan howled!
+Ori is roaming around!
+Calling for Bonny the baboon
+Bonny has refused to eat!
+Bonny the baboon howled!
+Bonny is roaming around!
+Zookeeper has left the zoo!
+
+Day 5:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy roams around.
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Tommy has fallen asleep!
+Calling for Tommy the tiger
+Tommy has been fed!
+Tommy is roaming around!
+Tommy has refused to sleep!
+Tommy is roaming around!
+Candice has fallen asleep!
+Calling for Candice the cat
+Candice has been fed!
+Candice is roaming around!
+Candice has refused to sleep!
+Candice is roaming around!
+Leo has fallen asleep!
+Calling for Leo the lion
+Leo has been fed!
+Leo is roaming around!
+Leo has refused to sleep!
+Leo the lion roared!
+Calling for Ronny the rhino
+Ronny has been fed!
+Ronny has refused to exercise! They chose at you instead!
+Calling for Hooper the hippo
+Hooper has been fed!
+Hooper roams around.
+Calling for Elly the elephant
+Elly has been fed!
+Elly has refused to exercise! They chose at you instead!
+Calling for Manny the monkey
+Manny has refused to eat!
+Manny is roaming around!
+Manny has fallen asleep
+Calling for Ori the orangutan
+Ori has refused to eat!
+Ori the orangutan howled!
+Ori is roaming around!
+Calling for Bonny the baboon
+Bonny has refused to eat!
+Bonny the baboon howled!
+Bonny is roaming around!
+Zookeeper has left the zoo!
+
+Day 6:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy roams around.
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Tommy has fallen asleep!
+Calling for Tommy the tiger
+Tommy has been fed!
+Tommy is roaming around!
+Tommy has refused to sleep!
+Tommy is roaming around!
+Candice has fallen asleep!
+Calling for Candice the cat
+Candice has been fed!
+Candice is roaming around!
+Candice has refused to sleep!
+Candice the cat meowed!
+Leo has fallen asleep!
+Calling for Leo the lion
+Leo has been fed!
+Leo is roaming around!
+Leo has refused to sleep!
+Leo the lion roared!
+Calling for Ronny the rhino
+Ronny has been fed!
+Ronny roams around.
+Calling for Hooper the hippo
+Hooper has been fed!
+Hooper roams around.
+Calling for Elly the elephant
+Elly has been fed!
+Elly roams around.
+Calling for Manny the monkey
+Manny has refused to eat!
+Manny the monkey howled!
+Manny is roaming around!
+Calling for Ori the orangutan
+Ori has refused to eat!
+Ori is roaming around!
+Ori has fallen asleep
+Calling for Bonny the baboon
+Bonny has refused to eat!
+Bonny the baboon howled!
+Bonny is roaming around!
+Zookeeper has left the zoo!
+
+Day 7:
+Zookeeper has entered the zoo!
+Calling for Wendy the wolf
+Wendy has been fed!
+Wendy has refused to exercise! They chose to dig instead.
+Calling for Dumbo the dog
+Dumbo has been fed!
+Dumbo roams around.
+Tommy has fallen asleep!
+Calling for Tommy the tiger
+Tommy has been fed!
+Tommy is roaming around!
+Tommy has refused to sleep!
+Tommy is roaming around!
+Candice has fallen asleep!
+Calling for Candice the cat
+Candice has been fed!
+Candice is roaming around!
+Candice has refused to sleep!
+Candice is roaming around!
+Leo has fallen asleep!
+Calling for Leo the lion
+Leo has been fed!
+Leo is roaming around!
+Leo has refused to sleep!
+Leo is roaming around!
+Calling for Ronny the rhino
+Ronny has been fed!
+Ronny roams around.
+Calling for Hooper the hippo
+Hooper has been fed!
+Hooper roams around.
+Calling for Elly the elephant
+Elly has been fed!
+Elly roams around.
+Calling for Manny the monkey
+Manny has refused to eat!
+Manny the monkey howled!
+Manny is roaming around!
+Calling for Ori the orangutan
+Ori has refused to eat!
+Ori the orangutan howled!
+Ori is roaming around!
+Calling for Bonny the baboon
+Bonny has refused to eat!
+Bonny the baboon howled!
+Bonny is roaming around!
+Zookeeper has left the zoo!
